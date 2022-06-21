@@ -2,17 +2,11 @@
 
 This is a MPC project for motion planning & control of non-holonomic mobile robots
 
-Have fun~~
-
-### :smirk:  
-#### :smirk:
-##### :smirk:
-
 ## 1. Video & Paper
 
 [our project video can be found here](https://www.youtube.com/watch?v=nYDxWkKvzZ8)
 
-[our paper (pre-print) can be found here](https://www.researchgate.net/publication/359879273_Safe_Model_Predictive_Control_Approach_for_Non-holonomic_Mobile_Robots)
+[our report can be found here](https://www.researchgate.net/publication/359879273_Safe_Model_Predictive_Control_Approach_for_Non-holonomic_Mobile_Robots)
 
 ## 2. How to run the files:
 
